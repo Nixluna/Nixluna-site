@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  background: #FFFFFF;
+  color: #0B0C24;
+}
+.header-cta { background: linear-gradient(90deg,#D4AF37,#B8860B); color:#fff; padding:.5rem 1rem; border-radius:6px; }
